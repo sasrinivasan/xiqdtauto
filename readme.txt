@@ -2,7 +2,7 @@
 
 2. Get environment in azure
 Contact Junjie Ma <jma@extremenetworks.com> (Jackie) for environment/auth details
-Change these variables in dtlib.py wit the information
+Change these variables in dtlib.py
 endpoint="ipaddress:portnumber"
 authtoken='authorization: basic <<<key>>>'
 
